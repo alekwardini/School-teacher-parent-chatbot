@@ -1,0 +1,3 @@
+An intelligent, AI-powered booking solution designed to eliminate friction in parent-teacher conference scheduling. Developed to solve the disorganized, chaotic, and frustrating booking experience at school, this platform automates student lookup, teacher matching, and real-time slot reservation using natural language.
+Why This Project Exists:
+Parent-teacher meetings are notoriously difficult to coordinate—clunky spreadsheets, overlapping schedules, and endless back-and-forth communication leave both parents and administration frustrated. This project was built to revolutionize that workflow into a seamless, conversational experience where parents simply state who they want to meet and when.
